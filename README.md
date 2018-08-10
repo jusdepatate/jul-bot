@@ -9,3 +9,6 @@ This work is not related to any Jul official thing.
 - [Mastodon](https://joinmastodon.org/)
 
 If your are some representative of Jul, and want me to link to somewhere specific, or even disable this bot, please get in touch.
+
+## Source
+- [Genius](https://genius.com/Jul-wesh-alors-lyrics) I used Genius to get Jul's lyrics
