@@ -1,11 +1,11 @@
-# Tragédie Mastodon bot
-This bot posts a random piece of lyrics from the «Hey Oh» song, recorded by Tragédie (a French R&B duo).
+# Jul Mastodon bot
+This bot posts a random piece of lyrics from the «Wesh Alors» song, recorded by Jul (a French bad singer).
 
 This is a «tribute» bot.
-This work is not related to any Tragédie official thing.
+This work is not related to any Jul official thing.
 
 ### See
-- [Tragédie](https://en.wikipedia.org/wiki/Trag%C3%A9die_(duo))
+- [Jul](https://en.wikipedia.org/wiki/Jul_(singer))
 - [Mastodon](https://joinmastodon.org/)
 
-If your are some representative of Tragédie, and want me to link to somewhere specific, or even disable this bot, please get in touch.
+If your are some representative of Jul, and want me to link to somewhere specific, or even disable this bot, please get in touch.
