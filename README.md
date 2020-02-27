@@ -6,7 +6,8 @@ This work is not related to any Jul official thing.
 
 ### See
 - [Jul](https://en.wikipedia.org/wiki/Jul_(singer))
-- [Mastodon](https://joinmastodon.org/)
+- [What is Mastodon](https://joinmastodon.org/)
+- <a rel="me" href="https://crazynoisybizarre.town/@julbot">Mastodon</a>
 
 If your are some representative of Jul, and want me to link to somewhere specific, or even disable this bot, please get in touch.
 
